@@ -1,7 +1,7 @@
 from setuptools import setup
 
-#with open('requirements.txt') as reqs_file:
-#    reqs = reqs_file.read().splitlines()
+with open('requirements.txt') as reqs_file:
+    reqs = reqs_file.read().splitlines()
 
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
