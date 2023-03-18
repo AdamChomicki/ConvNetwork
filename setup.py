@@ -8,9 +8,9 @@ setup(
     name='convnetwork',
     url='https://github.com/AdamChomicki/ConvNetwork',
     author='AdamChomicki',
-    author_email='skrzypczykt@gmail.com',
+    author_email='ad.chomicki@gmail.com',
     # Needed to actually package something
-    packages=['gans'],
+    packages=['convnetwork'],
     # Needed for dependencies
     install_requires= reqs,
     # strongly suggested for sharing
