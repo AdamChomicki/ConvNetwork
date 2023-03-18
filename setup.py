@@ -10,7 +10,7 @@ setup(
     author='AdamChomicki',
     author_email='ad.chomicki@gmail.com',
     # Needed to actually package something
-    src=['convnetwork'],
+    packages=['convnetwork'],
     # Needed for dependencies
     install_requires= reqs,
     # strongly suggested for sharing
